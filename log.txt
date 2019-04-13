@@ -1,0 +1,103 @@
+commit f4829157319aa82d3f2d6f4dd57db7eafbe7a6a0
+Merge: 1de178b 716cf0c
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:37:24 2019 +0200
+
+    Fusione ramo Home
+
+commit 1de178b3fde400893e3e1ab93edc757dd3ab1460
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:34:13 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..0a4cfdb 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-color:blue;}
+\ No newline at end of file
+
+commit 716cf0ca1f7e6defc56cb7d951a9ea91eda92984
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:29:55 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..e889e55 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body{background-colore:red;}
+\ No newline at end of file
+
+commit 2b00f1cf33e82c86c9e5094ab452c9362fa1433e
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:28:11 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/WIN_20171023_09_46_53_Pro.jpg b/img/WIN_20171023_09_46_53_Pro.jpg
+new file mode 100644
+index 0000000..943740f
+Binary files /dev/null and b/img/WIN_20171023_09_46_53_Pro.jpg differ
+
+commit 1c0408d369b7b638a8d41608e68b534410a831f7
+Merge: 9d9c168 b6f5128
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:23:59 2019 +0200
+
+    Fusione ramo Contatti
+
+commit b6f51288b6c87f9b917346123500287d3cf51274
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:22:26 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 6fcc3189d1215a0acf5fd5a02cf2bab084dd3fc7
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:21:27 2019 +0200
+
+    Creata pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 9127d38b226b3cf546b51f76ec489cbdec7c2247
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:15:25 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/WIN_20171003_09_05_48_Pro.jpg b/img/WIN_20171003_09_05_48_Pro.jpg
+new file mode 100644
+index 0000000..be50ca3
+Binary files /dev/null and b/img/WIN_20171003_09_05_48_Pro.jpg differ
+
+commit 9d9c168e637a3e665f6e6afadb236a5ff942645c
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:12:45 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit e0410f401110210097be5f6c211e1d6517331710
+Author: xMrMasi <studente.masi.daniele@gmail.com>
+Date:   Sat Apr 13 11:06:32 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29

@@ -1,0 +1,14 @@
+*   f482915 (HEAD -> master) Fusione ramo Home
+|\  
+| * 716cf0c (home) Inserito colore di sfondo rosso
+| * 2b00f1c Inserita immagine per la pagina Home
+| *   1c0408d Fusione ramo Contatti
+| |\  
+| | * b6f5128 (Contatti) Inserito file css per i widget
+| | * 6fcc318 Creata pagina Contatti
+| * | 9d9c168 Creata Pagina Home
+| |/  
+* | 1de178b Inserito colore di sfondo blu
+* | 9127d38 Inserita immagine
+|/  
+* e0410f4 Prima Commit
